@@ -1,0 +1,25 @@
+row sorting
+
+row dragging
+
+row spanning
+
+row pinning
+
+row height
+
+full width cell
+
+/* -------------
+
+row sorting
+
+row dragging
+
+row spanning
+
+row pinning
+
+row height
+
+full width cell
